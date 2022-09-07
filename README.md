@@ -36,4 +36,4 @@ The original code was a lot simpler and easier to understand/program. It fulfill
 
 ### Pro v Con: Refactored Script
 
-The refactored code is not only quicker but also easier to read from a user's perspective. The coloring of the positive and negative values plus the differentiation between years and more accurate measuring code provides an overall better experience for Steven's parents. On the other hand, refactoring the code makes it a lot harder to share the code with other programmers unless there are several comments added explaining what each line does.
+The refactored code is not only quicker but also easier to read from a user's perspective. The coloring of the positive and negative values plus the differentiation between years and more accurate measuring code provides an overall better experience for Steve's parents. On the other hand, refactoring the code makes it a lot harder to share the code with other programmers unless there are several comments added explaining what each line does.
