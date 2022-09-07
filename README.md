@@ -28,6 +28,12 @@ However, in the following year, almost every company took a hit except for two. 
 
 ### Pro v Con: Refactoring
 
+Refactoring code can be beneficial for user experience as it makes the code run fast and reduces loading times. On the other hand, refactoring the code can also signifigantly lower the readbility of the code between programmers. That's why it's important to added comments to your code so that if you have to step away from a project for a period of time or share it with other programmers, the intent of each line of the code can be understood. 
+
 ### Pro v Con: Original Script
 
+The original code was a lot simpler and easier to understand/program. It fulfilled the basic request of the job. However, it had slower loading times and left the interpretation of the results up to the user's ability to understand stocks.
+
 ### Pro v Con: Refactored Script
+
+The refactored code is not only quicker but also easier to read from a user's perspective. The coloring of the positive and negative values plus the differentiation between years and more accurate measuring code provides an overall better experience for Steven's parents. On the other hand, refactoring the code makes it a lot harder to share the code with other programmers unless there are several comments added explaining what each line does.
